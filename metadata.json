@@ -1,0 +1,6 @@
+{
+  "name": "Service Delivery Performance Report Generator",
+  "description": "An interactive tool to generate performance reports from service delivery data. Upload CSV files to visualize KPIs, analyze trends, and export insightful summaries.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
