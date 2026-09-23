@@ -1,5 +1,7 @@
 name: V79 CI/CD
 
+# Standard V79 validation and delivery pipeline.
+
 on:
   pull_request:
     branches: [main]
